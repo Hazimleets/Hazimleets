@@ -23,11 +23,6 @@
   <!-- Designer -->
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=4000&pause=4000&color=ff6e6e&center=true&vCenter=true&width=500&lines=Graphic+Designer" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 
-  <!-- Web Designer -->
-  <img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=26&duration=2000&pause=6000&color=7c3aed&center=true&vCenter=true&width=500&lines=Web+Designer+and+Developer" alt="Typing SVG" style="max-width: 100%; height: auto;" />
-
-</p>
-
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> **About Me**
 
